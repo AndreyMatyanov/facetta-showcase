@@ -6,7 +6,7 @@
 
 > Код закрытый (коммерческий проект). В этом репозитории — описание, скриншоты и демо-видео. Код и живую демонстрацию могу показать на собеседовании.
 
-[![Демо-видео Facetta](https://img.youtube.com/vi/RL_3PdiLUB0/maxresdefault.jpg)](https://youtu.be/RL_3PdiLUB0)
+**Демо-видео (48 с):** [смотреть на YouTube](https://youtu.be/RL_3PdiLUB0)
 
 ---
 
